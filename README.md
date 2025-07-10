@@ -1,3 +1,4 @@
 # TextRPG
 
-<img width="472" alt="image" src="https://github.com/user-attachments/assets/30e7bca1-1171-473e-9b91-4068768d25f6" />
+<img width="553" alt="image" src="https://github.com/user-attachments/assets/eebca778-d2f1-4676-b61f-9a3d04b0c23f" />
+
