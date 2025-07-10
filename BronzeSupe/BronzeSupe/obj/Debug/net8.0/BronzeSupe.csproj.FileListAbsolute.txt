@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\obj\Debug\net8.0\BronzeSupe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\obj\Debug\net8.0\BronzeSupe.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\obj\Debug\net8.0\BronzeSupe.AssemblyInfo.cs
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\obj\Debug\net8.0\BronzeSupe.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\bin\Debug\net8.0\BronzeSupe.exe
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\bin\Debug\net8.0\BronzeSupe.deps.json
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\bin\Debug\net8.0\BronzeSupe.runtimeconfig.json
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\bin\Debug\net8.0\BronzeSupe.dll
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\bin\Debug\net8.0\BronzeSupe.pdb
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\obj\Debug\net8.0\BronzeSupe.dll
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\obj\Debug\net8.0\refint\BronzeSupe.dll
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\obj\Debug\net8.0\BronzeSupe.pdb
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\obj\Debug\net8.0\BronzeSupe.genruntimeconfig.cache
+C:\Users\PC\source\repos\BronzeSupe\BronzeSupe\obj\Debug\net8.0\ref\BronzeSupe.dll

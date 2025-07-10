@@ -1,0 +1,70 @@
+{
+  "Id": 0,
+  "Name": "\uC9C4\uC6B0",
+  "MaxHp": 115,
+  "Hp": 114,
+  "MaxMp": 50,
+  "Mp": 50,
+  "Str": 260,
+  "Int": 10,
+  "ArmorPoint": 16,
+  "Weapon": "\uCCA0\uAC80",
+  "Armor": "\uCCA0\uAC11\uC637",
+  "Accessory": "\uBCF4\uC11D\uBC18\uC9C0",
+  "DropItem": "\uC5C6\uC74C",
+  "Lv": 10,
+  "Exp": 940,
+  "NextExp": 1000,
+  "Gold": 359,
+  "plusStr": 15,
+  "plusInt": 0,
+  "plusArmorPoint": 15,
+  "plusHP": 15,
+  "plusMP": 0,
+  "CurrentLocation": "\uB9C8\uC744",
+  "Item": [
+    {
+      "Name": "\uC124\uBA85\uC11C",
+      "Description": "\uAC8C\uC784 \uC124\uBA85\uC11C\uC785\uB2C8\uB2E4. \uAC8C\uC784\uC744 \uC2DC\uC791\uD558\uAE30 \uC804\uC5D0 \uC77D\uC5B4\uBCF4\uC138\uC694.",
+      "Price": 0,
+      "Value": 0,
+      "Type": 4
+    },
+    {
+      "Name": "\uACE0\uBE14\uB9B0\uADC0",
+      "Description": "\uACE0\uBE14\uB9B0\uC758 \uADC0. \uAE38\uB4DC\uB85C \uAC00\uC838\uAC11\uC2DC\uB2E4.",
+      "Price": 15,
+      "Value": 0,
+      "Type": 5
+    },
+    {
+      "Name": "\uACE0\uBE14\uB9B0\uADC0",
+      "Description": "\uACE0\uBE14\uB9B0\uC758 \uADC0. \uAE38\uB4DC\uB85C \uAC00\uC838\uAC11\uC2DC\uB2E4.",
+      "Price": 15,
+      "Value": 0,
+      "Type": 5
+    },
+    {
+      "Name": "\uACE0\uBE14\uB9B0\uADC0",
+      "Description": "\uACE0\uBE14\uB9B0\uC758 \uADC0. \uAE38\uB4DC\uB85C \uAC00\uC838\uAC11\uC2DC\uB2E4.",
+      "Price": 15,
+      "Value": 0,
+      "Type": 5
+    },
+    {
+      "Name": "\uACE0\uBE14\uB9B0\uADC0",
+      "Description": "\uACE0\uBE14\uB9B0\uC758 \uADC0. \uAE38\uB4DC\uB85C \uAC00\uC838\uAC11\uC2DC\uB2E4.",
+      "Price": 15,
+      "Value": 0,
+      "Type": 5
+    },
+    {
+      "Name": "\uACE0\uBE14\uB9B0\uADC0",
+      "Description": "\uACE0\uBE14\uB9B0\uC758 \uADC0. \uAE38\uB4DC\uB85C \uAC00\uC838\uAC11\uC2DC\uB2E4.",
+      "Price": 15,
+      "Value": 0,
+      "Type": 5
+    }
+  ],
+  "QuestProgress": "\uBAA8\uB4E0\uD018\uC2A4\uD2B8\uC644\uB8CC"
+}
